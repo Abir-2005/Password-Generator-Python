@@ -19,6 +19,6 @@ This is a simple, command-line utility written in Python designed to generate st
 
   🟡 Execute the script using the Python interpreter:
 
-python Password.py
+[python Password.py](https://github.com/Abir-2005/Password-Generator-Python/blob/main/Password.py)
 
   🟡 The program will then prompt you to "Enter the length of Password :"

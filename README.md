@@ -1,7 +1,7 @@
 # Password-Generator-Python
 This is a simple, command-line utility written in Python designed to generate strong, random passwords. It allows the user to specify the desired length, ensuring the generated password meets complexity requirements for various online services.
 
-#Key Features
+🌐Key Features
 
   1️⃣Custom Length: Prompts the user to enter the desired length for the password.
 
@@ -9,16 +9,16 @@ This is a simple, command-line utility written in Python designed to generate st
 
   3️⃣ Simple Interface: Runs directly from the console, providing quick and easy password generation.
 
-#How to Run the Script
+🌐 How to Run the Script :- 
 
-Save the code as a Python file (e.g., Password.py).
+  🟡 Save the code as a Python file (e.g., Password.py).
 
-Open your terminal or command prompt.
+  🟡 Open your terminal or command prompt.
 
-Navigate to the directory where you saved the file.
+  🟡 Navigate to the directory where you saved the file.
 
-Execute the script using the Python interpreter:
+  🟡 Execute the script using the Python interpreter:
 
 python Password.py
 
-The program will then prompt you to "Enter the length of 
+  🟡 The program will then prompt you to "Enter the length of Password :"
